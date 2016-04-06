@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tets Page
+title: Test Page
 ---
 
 $$
