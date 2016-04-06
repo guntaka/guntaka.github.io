@@ -1,3 +1,5 @@
 markdown: kramdown
 baseurl: /
 exclude: ['README.md','LICENSE']
+permalink: /:categories/:year/:month/:day/:title
+production_url : http://guntaka.github.io/
