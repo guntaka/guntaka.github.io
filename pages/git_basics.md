@@ -2,10 +2,10 @@
 layout: default
 title: Git Basics
 ---
-Git Resources
-===
-README Tips
----
+# Git Resources
+
+## README Tips
+
 Here is a curated list of [README files](https://github.com/matiassingers/awesome-readme target="_blank")
 
 Washington University [Good READMES](https://courses.cs.washington.edu/courses/cse326/02wi/homework/hw5/good-readmes.html target="_blank")
