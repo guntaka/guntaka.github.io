@@ -3,11 +3,11 @@ layout: default
 permalink: /news/
 ---
 
-<h1>All Posts</h1>
+# All Posts
 <ul>
 	{% for post in site.posts %}
 	<li>
-		<a href="">{{ post.title }}</a>
+		<a href="{{ post.url }}">{{ post.title }}</a>
 		<p>{{ post.meta }}</p>
 	</li>
 	{% endfor %}
