@@ -13,4 +13,4 @@ Fahad has written a nice article explains why/what/how/when of Kick-off meeting.
 _action item_ I need write the key points here by April 17th 2016.
 
 ## Link back to other resources
-{% include nav.html %}
+{% include resources.html %}

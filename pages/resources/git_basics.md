@@ -14,4 +14,4 @@ Washington University [Good READMES](https://courses.cs.washington.edu/courses/c
 [Art of readme from @noffle](https://github.com/noffle/art-of-readme)
 
 ## Link back to other resources
-{% include nav.html %}
+{% include resources.html %}

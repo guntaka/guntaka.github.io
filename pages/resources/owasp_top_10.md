@@ -16,4 +16,4 @@ permalink: /resources/owasp-top-10
 10. Unvalidated redirects and Forwards
 
 ## Link back to other resources
-{% include nav.html %}
+{% include resources.html %}
