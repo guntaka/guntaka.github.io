@@ -2,7 +2,6 @@
 layout: news
 title: PMP Key points
 meta: Remember these points
-Source:Blank
 category: exam prep
 ---
 What is a Project?
