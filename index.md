@@ -2,7 +2,7 @@
 layout: default
 title: Guntaka Home
 ---
-## Guntaka Home on GutHub Pages
+## Guntaka Home on GitHub Pages
 
 This page is a place holder for now, stay tuned for nore content......
 
