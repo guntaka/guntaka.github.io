@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PM Study Circle Notes
-permanlink: /resources/pm_study_notes.html
+permalink: /resources/pm-study-notes
 ---
 # PM Study Circle Notes
 

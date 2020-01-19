@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Test Page
+permalink: /math-test-page
 ---
 $$
 \begin{align*}

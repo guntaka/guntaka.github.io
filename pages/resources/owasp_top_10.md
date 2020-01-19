@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OWASP Top 10
-permalink: /resources/owasp_top_10.html
+permalink: /resources/owasp-top-10
 ---
 ## Top 10 (2013)
 1. Injection

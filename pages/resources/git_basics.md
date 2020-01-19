@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Basics
-permanlink: /resources/git_basics.html
+permalink: /resources/git-readme-basics
 ---
 # Git Resources
 
