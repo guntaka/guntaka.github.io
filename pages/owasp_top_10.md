@@ -1,6 +1,7 @@
 ---
 layout: default
 title: OWASP Top 10
+permalink: /resources/owasp_top_10.html
 ---
 ## Top 10 (2013)
 1. Injection
@@ -13,3 +14,6 @@ title: OWASP Top 10
 8. Cross site request forgery (CSRF)
 9. Using components with known vulnerabilities
 10. Unvalidated redirects and Forwards
+
+## Link back to other resources
+{% include nav.html %}
