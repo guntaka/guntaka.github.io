@@ -6,4 +6,4 @@ title: Guntaka Home
 
 This page is a place holder for now, stay tuned for nore content......
 
-[Click here](/news/) to go Blog
+[Click here](/news/) to see recent articles

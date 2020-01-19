@@ -2,7 +2,7 @@
 layout: news
 title: PMP Key points
 meta: Remember these points
-category: exam prep
+category: exam-prep
 ---
 What is a Project?
 	A temporary endevor
