@@ -8,26 +8,26 @@ permalink: /resources/owasp-top-10
 1. Broken access control
 2. Cyptographic failures
 3. Injection
-4. Insecure design `new`
+4. Insecure design `[new]`
 5. Security misconfiguration
 6. Vulnerable and outdated components
 7. Identification and authentication failures
-8. Software and data integrity failures `new`
+8. Software and data integrity failures `[new]`
 9. Security logging and monitoring failures
-10. Server side request forgery (SSRF) `new`
+10. Server side request forgery (SSRF) `[new]`
 
 
 ## Top 10 (2017)
 1. Injection
 2. Broken authentication
 3. Sensitive data exposure
-4. XML external entities (XXE) `new`
-5. Broken access control `merged 4, 5, 6`
+4. XML external entities (XXE) `[new]`
+5. Broken access control `[merged 4, 5, 6]`
 6. Security misconfiguraiton
 7. Cross site scripting (XSS)
-8. Insecure deserialization `new, community`
+8. Insecure deserialization `[new, community]`
 9. Using components with known vulnerabilities
-10. Insufficient logging and monitoring `new, community`
+10. Insufficient logging and monitoring `[new, community]`
 
 
 ## Top 10 (2013)
