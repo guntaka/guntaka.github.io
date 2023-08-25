@@ -23,16 +23,23 @@
       text-decoration: none;
       color: rgb(218, 116, 55);
     }
+    
+    div#container {
+      width: 960px; /* set the width of the wrapper */
+      margin: 0 auto; /* center the wrapper */
+    }
+
+
   </style>
-  <title>{{ page.title }} - Guntaka.io</title>
+  <title>{{ page.title }} - Guntaka.com</title>
 </head>
 <body>
-
+<div id="container">
   <header>
     {% include nav.html %}
   </header>
 
   {{content}}
-
+</div>
 </body>
 </html>
