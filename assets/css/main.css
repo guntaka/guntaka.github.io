@@ -1,0 +1,35 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+div#container {
+    width: 960px;
+    /* set the width of the wrapper */
+    margin: 0 auto;
+    /* center the wrapper */
+}
+/* top navigation bar */
+nav.site-nav {
+    background-color: #ededed;
+    padding: 1px;
+  }
+
+  nav.site-nav ul li {
+    display: inline;
+    padding: 6px;
+    line-height: 27px;
+    font-size: 25px;
+  }
+
+  nav.sub-nav ul li {
+    display: inline;
+    list-style: square;
+    line-height: 15px;
+  }
+
+  nav.site-nav ul li a {
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: none;
+    color: rgb(218, 116, 55);
+  }
