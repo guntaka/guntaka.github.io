@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Page
-permalink: /math-test-page
+permalink: /resources/math-test-page
 ---
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
