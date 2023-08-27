@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guntaka Home
+permalink: /
 ---
 ## welcome to Guntaka
 

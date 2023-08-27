@@ -1,11 +1,19 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-us">
 
 <head>
     <link rel="stylesheet" href="/assets/css/main.css">
+    <title>Latest News - {{page.title}} </title>
 </head>
 
 <body>
-    {{content}}
+    <div id="container">
+        <header>
+          {% include nav.html %}
+        </header>
+    
+        {{content}}
+      </div>
 </body>
 
 </html>
