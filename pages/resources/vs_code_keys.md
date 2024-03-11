@@ -1,9 +1,13 @@
 ---
 layout: default
-title: OWASP Top 10
+title: Visual Studio Shortcuts
+keywords: basic, navigation
 permalink: /resources/vscode-keys
 ---
-## Basic Editing
+## VS Code Keyboard Shortcuts
+
+<div markdown="1" class="hints-section">
+### Basic Editing
 
 | Command              | Description |
 | -------------------- | ----------- |
@@ -32,21 +36,57 @@ permalink: /resources/vscode-keys
 | Ctrl + /             | Toggle line comment |
 | Shift + Alt + A      | Toggle block comment |
 | Alt + Z              | Toggle word wrap |
+{: .-section.table}
+</div>
 
-## Navigation
+<div markdown="1" class="hints-section right">
+### Navigation
 
 | Command              | Description |
 | -------------------- | ----------- |
 | Ctrl + T             | Show all Symbols |
 | Ctrl + G             | Go to Line |
-| Crtl + P             | Go to File |
+| Ctrl + P             | Go to File |
 | Ctrl + Shift + O     | Go to Symbol |
 | Ctrl + Shift + M     | Go to problem panel |
 | F8                   | Go to next error or warning |
 | Shift + F8           | Go to previous error or warning |
 | Ctrl + Shift + Tab   | Navigate editor group history |
 | Alt + Left / Right   | Go back / forward |
+{: .-section.table}
+</div>
 
+<div markdown="1" class="hints-section right">
+### Search and Replace
+
+| Command              | Description |
+| -------------------- | ----------- |
+| Ctrl + F             | Find |
+| Ctrl + H             | Replace |
+| F3 / Shift + F3      | Find Next/Previous |
+| Alt + Enter          | Select all occurances of Find match |
+| Ctrl + D             | Add selection to next Find match |
+| Ctrl + K Ctrl + D    | Move last selection to next Find match |
+| Alt + C / R / W      | Toggle case-sensitve / regex / whole word |
+{: .-section.table}
+</div>
+
+<div markdown="1" class="hints-section right">
+### Editor Management
+
+| Command              | Description |
+| -------------------- | ----------- |
+| Ctrl + F4, Ctrl + W  | Clode editor |
+| Ctrl + K F           | Close folder |
+| Ctrl + \             | Split editor |
+| Ctrl + 1 / 2 / 3     | Focus into 1/2/3rd editor group |
+| Ctrl + K Ctrl + Left/Right | Focus into previ/next editor group |
+| Ctrl + Shirt + PgUp/PgDown | Move editor group left/right |
+| Ctrl + K Left/Right  | Move active editor group |
+{: .-section.table}
+</div>
+
+<div markdown="1" class="foot_notes">
+### Reference
 Source link: [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-## Link back to other resources
-{% include resources.html %}
+</div>
