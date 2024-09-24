@@ -86,6 +86,40 @@ permalink: /resources/vscode-keys
 {: .-section.table}
 </div>
 
+<div markdown="1" class="hints-section">
+### Multi-cursor and selection
+
+| Command              | Description |
+| -------------------- | ----------- |
+| Alt + Click          | Insert cursor |
+| Ctrl + Alt + Up/Down | Insert cursor above/below |
+| Ctrl + U             | Undo last cursor operation |
+| Shift + Alt + I      | Insert cursor at end of each line selection |
+| Ctrl + L             | Select current line |
+| Ctrl + Shift + L     | Select all occurrences of current selection |
+| Ctrl + F2            | Select all occurrences of current word |
+| Shift + Alt + Right  | Expand selection |
+| Shift + Alt + Left   | Shrink selection |
+| Shift + Alt + drag mouse | Column (box) selection |
+| Ctrl + Shift + Alt + Arrow keys | Column (box) selection |
+| Ctrl + Shift + Alt + PgUp/PgDown | Column (box) selection page up/down |
+{: .-section.table}
+</div>
+
+<div markdown="1" class="hints-section right">
+### General
+
+| Command              | Description |
+| -------------------- | ----------- |
+| Ctrl + Shift + P or F1 | Show command palette |
+| Ctrl + P             | Quick Open, Go to File |
+| Ctrl + Shift + N     | New window/instance    |
+| Ctrl + Shift + W     | Close window/instance  |
+| Ctrl + ,             | User settings          |
+| Ctrl + K Ctrl + S    | Keyboard shortcuts     |
+{: .-section.table}
+</div>
+
 <div markdown="1" class="foot_notes">
 ### Reference
 Source link: [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
