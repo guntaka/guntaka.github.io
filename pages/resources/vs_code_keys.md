@@ -120,7 +120,107 @@ permalink: /resources/vscode-keys
 {: .-section.table}
 </div>
 
+
+<div markdown="1" class="hints-section right">
+### Rich Language Editing
+
+| Command                | Description |
+| ---------------------- | ----------- |
+| Ctrl + Space, Ctrl + I | Trigger suggestions |
+| Ctrl + Shift +Sapce    | Trigger parameter hints |
+| Shift + Alt + F        | Format document |
+| Ctrl + K Ctrl + F      | Format selection |
+| F12                    | Go to definition |
+| Alt + F12              | Peek definition |
+| Ctrl + K F12           | Open definition to the side |
+| Ctrl + .               | Quick fix |
+| Shift + F12            | Show reference |
+| F2                     | Rename symbol |
+| Ctrl + K Ctrl + X      | Trim trailing whitespaces |
+| Ctrl + K M             | Change language |
+{: .-section.table}
+</div>
+
+
+<div markdown="1" class="hints-section">
+### File Management
+
+| Command                | Description |
+| ---------------------- | ----------- |
+| Ctrl + N               | New file |
+| Ctrl + O               | Open file |
+| Ctrl + S               | Save |
+| Ctrl + Shift + S       | Save as |
+| Ctrl + K S             | Save All |
+| Ctrl + F4              | Close |
+| Ctrl + K Ctrl + W      | Close All |
+| Ctrl + Shift + T       | Reopen closed editor |
+| Ctrl + K Enter         | Keep preview mode editor open |
+| Ctrl + Tab             | Open next |
+| Ctrl + Shift + Tab     | Open previous |
+| Ctrl + K P             | Copy path of active file |
+| Ctrl + K R             | Reveal active file in Explorer |
+| Ctrl + K O             | Show active file in new window/instance |
+{: .-section.table}
+</div>
+
+
+<div markdown="1" class="hints-section right">
+### Display
+
+| Command                | Description |
+| ---------------------- | ----------- |
+| F11                    | Toggle full screen |
+| Shift + Alt + 0        | Toggle editor lyout (horizontal/vertical) |
+| Ctrl + =/-             | Zoom in/out |
+| Ctrl + B               | Toggle sidebar visibility |
+| Ctrl + Shift + E       | Show explorer / toggle focus |
+| Ctrl + Shift + F       | Show search |
+| Ctrl + Shift + G       | Show source control |
+| Ctrl + Shift + D       | Show debug |
+| Ctrl + Shift + X       | Show extensions |
+| Ctrl + Shift + H       | Replace in files |
+| Ctrl + Shift + J       | Toggle search details |
+| Ctrl + Shift + U       | Show output panel |
+| Ctrl + K Z             | Zen mode (Esc Esc to exit) |
+{: .-section.table}
+</div>
+
+
+<div markdown="1" class="hints-section">
+### Debug
+
+| Command            | Description |
+| ------------------ | ----------- |
+| F9                 | Toggle breakpoint |
+| F5                 | Start / Continue |
+| Shift + F5         | Stop |
+| F11 / Shift + F11  | Step into / out |
+| F10                | Step over |
+| Ctrl + K Ctrl + I  | Show hover |
+{: .-section.table}
+</div>
+
+
+<div markdown="1" class="hints-section right">
+### Integrated Terminal
+
+| Command             | Description |
+| ------------------- | ----------- |
+| Ctrl + `            | Show integrated terminal |
+| Ctrl + shift + `    | Create new terminal |
+| Ctrl + C            | Copy selection |
+| Ctrl + V            | Paste into active terminal |
+| Ctrl + Up/Down      | Scroll up/down |
+| Shift + PgUp / PgDn | Scroll page up / down |
+| Ctrl + Home/ End    | Scrol to top / bottom |
+{: .-section.table}
+</div>
+
+
+
 <div markdown="1" class="foot_notes">
 ### Reference
 Source link: [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 </div>
+<!--  Style from devhints.io-->
